@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ShilpaKalaShowcase" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/stone_black</item>
+        <item name="colorPrimaryVariant">@color/stone_black</item>
+        <item name="colorSecondary">@color/temple_gold</item>
+        <item name="android:windowBackground">@color/cream</item>
+    </style>
+</resources>
